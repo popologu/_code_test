@@ -8,9 +8,7 @@ C:\_test\Temp\bin\Debug\System.Runtime.Serialization.dll
 C:\_test\Temp\bin\Debug\System.Xml.dll
 C:\_test\Temp\bin\Debug\System.Xml.Linq.dll
 C:\_test\Temp\bin\Debug\Unity.Locator.dll
-C:\_test\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
 C:\_test\Temp\bin\Debug\UnityEditor.dll
-C:\_test\Temp\bin\Debug\UnityEditor.StandardEvents.dll
 C:\_test\Temp\bin\Debug\UnityEngine.AccessibilityModule.dll
 C:\_test\Temp\bin\Debug\UnityEngine.AIModule.dll
 C:\_test\Temp\bin\Debug\UnityEngine.Analytics.dll
@@ -166,3 +164,5 @@ C:\_test\obj\Debug\Assembly-CSharp.csproj.CoreCompileInputs.cache
 C:\_test\obj\Debug\Assembly-CSharp.csproj.CopyComplete
 C:\_test\obj\Debug\Assembly-CSharp.dll
 C:\_test\obj\Debug\Assembly-CSharp.pdb
+C:\_test\Temp\bin\Debug\Unity.PackageManagerUI.Editor.dll
+C:\_test\Temp\bin\Debug\UnityEditor.StandardEvents.dll
